@@ -1,4 +1,4 @@
-# Flower-image-classifier
+# Dog breed classifier
 
 This is the firsts project  of the the AI Programming with Python Nanodegree from [https://www.udacity.com/] to classify dog breed images using pretrained CNN (Alexnet, vgg, resnet) and evaluate the efficiency in terms of accuracy and time, the project is based on scripts provided by Udacity.
 
