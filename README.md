@@ -52,7 +52,7 @@ The following options are the arguments:
 
 Example:
 
-```$ python check_images.py --dir pet_images --arch vgg --dofile dognames.txt````
+`$ python check_images.py --dir pet_images --arch vgg --dofile dognames.txt`
 
 In addition to get help execute:
 
