@@ -22,7 +22,7 @@ A 40 images including dogs and cats images, in addition 5 random images includin
 
 # Files in the repository
 
-- **adjust_results4.py**               : Porgram to djusts the results dictionary   
+- **adjust_results4.py**               : Program to djusts the results dictionary   
 - **calculates_results_stats.py**      : Program that calculates the statistics of the results    
 - **check_images.py**                  : Program that check the images using classifier.py 
 - **classifier.py**                    : Program to classify pet images using a pretrained CNN model
@@ -42,7 +42,7 @@ Clone the repository to the local machine
 
 The app is called using **check_images.py ** 
 
-```python check_images.py --dir <directory with images> --arch <model>  --dogfile <file that contains dognames> ```
+`$ python check_images.py --dir <directory with images> --arch <model>  --dogfile <file that contains dognames> `
 
 The following options are the arguments:
 
