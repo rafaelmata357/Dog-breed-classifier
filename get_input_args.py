@@ -44,7 +44,7 @@ def get_input_args():
                     help = 'path to the folder of pet images')  
     
     # Argument 2: that's the CNN Model
-    parser.add_argument('--arch', type = str, default = 'vgg', 
+    parser.add_argument('--arch', type = str, default = 'vgg', choices=['alexnet', 'resnet','vgg'], 
                     help = 'CNN Model to be used')    
     
     # Argument 3: text file with dog names
